@@ -14,6 +14,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Blackpool Gazette: [Are we too reliant on our cars in Blackpool?](https://www.blackpoolgazette.co.uk/news/transport/are-we-too-reliant-our-cars-blackpool-2857905) *19 April 2020*
 * Burmley Express: [More than a quarter of Burnley workers already walk or cycle to work, figures show](https://www.burnleyexpress.net/health/coronavirus/more-quarter-burnley-workers-already-walk-or-cycle-work-figures-show-2856910) *19 April 2020*
+* Northampton Chronicle: [Just one in eight people walked or cycled to work in Northampton before lockdown, new figures reveal](https://www.northamptonchron.co.uk/health/just-one-eight-people-walked-or-cycled-work-northampton-lockdown-new-figures-reveal-2858105) *19 April 2020*
 * Yorkshire Evening Post: [Data reveals millions spent to make commutes cycle-friendly as less than 6% of Leeds residents use bike to travel to work](https://www.yorkshireeveningpost.co.uk/news/people/data-reveals-millions-spent-make-commutes-cycle-friendly-less-6-leeds-residents-use-bike-travel-work-2857359) *19 April 2020*
 
 ## Related repos
