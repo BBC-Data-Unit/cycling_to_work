@@ -1,4 +1,6 @@
-# cycling_to_work
+# Coronavirus: Push for cycling despite safety fears
+
+![](https://ichef.bbci.co.uk/news/624/cpsprodpb/0F21/production/_112337830_bba2b16e-c9a0-4411-8a22-c0c98eae87f4.png)
 
 In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-52708687) that three in five people felt cycling on the road was too dangerous, as cycling was pushed as an alternative to public transport.
 
@@ -14,9 +16,18 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Blackpool Gazette: [Are we too reliant on our cars in Blackpool?](https://www.blackpoolgazette.co.uk/news/transport/are-we-too-reliant-our-cars-blackpool-2857905) *19 May 2020*
 * Buckingham Today: [Will Aylesbury Vale choose bikes over cars or public transport to combat coronavirus?](https://www.buckinghamtoday.co.uk/health/coronavirus/will-aylesbury-vale-choose-bikes-over-cars-or-public-transport-combat-coronavirus-2858255) *19 May 2020*
-* Burmley Express: [More than a quarter of Burnley workers already walk or cycle to work, figures show](https://www.burnleyexpress.net/health/coronavirus/more-quarter-burnley-workers-already-walk-or-cycle-work-figures-show-2856910) *19 May 2020*
+* Burnley Express: [More than a quarter of Burnley workers already walk or cycle to work, figures show](https://www.burnleyexpress.net/health/coronavirus/more-quarter-burnley-workers-already-walk-or-cycle-work-figures-show-2856910) *19 May 2020*
 * Northampton Chronicle: [Just one in eight people walked or cycled to work in Northampton before lockdown, new figures reveal](https://www.northamptonchron.co.uk/health/just-one-eight-people-walked-or-cycled-work-northampton-lockdown-new-figures-reveal-2858105) *19 May 2020*
 * Yorkshire Evening Post: [Data reveals millions spent to make commutes cycle-friendly as less than 6% of Leeds residents use bike to travel to work](https://www.yorkshireeveningpost.co.uk/news/people/data-reveals-millions-spent-make-commutes-cycle-friendly-less-6-leeds-residents-use-bike-travel-work-2857359) *19 May 2020*
+
+## Get the data
+
+* Department for Transport [survey data](https://www.gov.uk/government/statistical-data-sets/walking-and-cycling-statistics-cw~) 
+
+## Visualisation 
+
+* Bar chart: Percentage of people who did not walk or cycle once a month, by authority
+* Bar chart: Percentage of people who cycle five times a month or more, by authority
 
 ## Related repos
 
