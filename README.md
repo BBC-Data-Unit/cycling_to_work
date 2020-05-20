@@ -24,6 +24,15 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Department for Transport [survey data](https://www.gov.uk/government/statistical-data-sets/walking-and-cycling-statistics-cw~) 
 
+## Interviews and quotes
+
+* Lizzie Farrant, midwife and cyclist
+* Councillor Mac Cafferty, Brighton 
+* Spokesperson, Cycling UK
+* Keith Prince, Conservative transport lead, London Assembly
+* Rod McKenzie, the Road Haulage Association
+* Darren Shirley, chief executive, the Campaign for Better Transport
+
 ## Visualisation 
 
 * Bar chart: Percentage of people who did not walk or cycle once a month, by authority
