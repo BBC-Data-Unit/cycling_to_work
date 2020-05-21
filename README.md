@@ -17,7 +17,12 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Blackpool Gazette: [Are we too reliant on our cars in Blackpool?](https://www.blackpoolgazette.co.uk/news/transport/are-we-too-reliant-our-cars-blackpool-2857905) *19 May 2020*
 * Buckingham Today: [Will Aylesbury Vale choose bikes over cars or public transport to combat coronavirus?](https://www.buckinghamtoday.co.uk/health/coronavirus/will-aylesbury-vale-choose-bikes-over-cars-or-public-transport-combat-coronavirus-2858255) *19 May 2020*
 * Burnley Express: [More than a quarter of Burnley workers already walk or cycle to work, figures show](https://www.burnleyexpress.net/health/coronavirus/more-quarter-burnley-workers-already-walk-or-cycle-work-figures-show-2856910) *19 May 2020*
+* Falmouth Packet: [Just one in nine Cornwall workers walk or cycle to work, figures show](https://www.falmouthpacket.co.uk/news/18452691.just-one-nine-cornwall-workers-walk-cycle-work-figures-show/) *17 May 2020*
+* Hemel Today: [Just one in 15 Dacorum workers currently walk to work](https://www.hemeltoday.co.uk/news/people/just-one-15-dacorum-workers-currently-walk-work-2857681) *19 May 2020*
+* Hereford Times: [Vast majority of people in Herefordshire don't walk or cycle to work](https://www.herefordtimes.com/news/18460251.vast-majority-people-herefordshire-dont-walk-cycle-work/) *19 May 2020*
+* Ilford Recorder: [Just one in 16 Redbridge workers currently walk to work, figures show](https://www.ilfordrecorder.co.uk/news/environment/1-in-16-redbridge-walk-to-work-1-6660267) *19 May 2020*
 * Northampton Chronicle: [Just one in eight people walked or cycled to work in Northampton before lockdown, new figures reveal](https://www.northamptonchron.co.uk/health/just-one-eight-people-walked-or-cycled-work-northampton-lockdown-new-figures-reveal-2858105) *19 May 2020*
+* St Helen's Reporter: [Fewer than one in 20 St Helens workers currently walk to work, figures show](https://www.sthelensreporter.co.uk/news/transport/fewer-one-20-st-helens-workers-currently-walk-work-figures-show-2856340) *18 May 2020*
 * Yorkshire Evening Post: [Data reveals millions spent to make commutes cycle-friendly as less than 6% of Leeds residents use bike to travel to work](https://www.yorkshireeveningpost.co.uk/news/people/data-reveals-millions-spent-make-commutes-cycle-friendly-less-6-leeds-residents-use-bike-travel-work-2857359) *19 May 2020*
 
 ## Get the data
