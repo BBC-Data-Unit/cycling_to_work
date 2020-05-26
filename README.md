@@ -24,6 +24,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northampton Chronicle: [Just one in eight people walked or cycled to work in Northampton before lockdown, new figures reveal](https://www.northamptonchron.co.uk/health/just-one-eight-people-walked-or-cycled-work-northampton-lockdown-new-figures-reveal-2858105) *19 May 2020*
 * St Helen's Reporter: [Fewer than one in 20 St Helens workers currently walk to work, figures show](https://www.sthelensreporter.co.uk/news/transport/fewer-one-20-st-helens-workers-currently-walk-work-figures-show-2856340) *18 May 2020*
 * Yorkshire Evening Post: [Data reveals millions spent to make commutes cycle-friendly as less than 6% of Leeds residents use bike to travel to work](https://www.yorkshireeveningpost.co.uk/news/people/data-reveals-millions-spent-make-commutes-cycle-friendly-less-6-leeds-residents-use-bike-travel-work-2857359) *19 May 2020*
+* Wigan Today: [More still to do to get Wigan residents travelling by bike or on foot, data shows](https://www.wigantoday.net/news/people/more-still-do-get-wigan-residents-travelling-bike-or-foot-data-shows-2861157) *23 May 2020*
 
 ## Get the data
 
