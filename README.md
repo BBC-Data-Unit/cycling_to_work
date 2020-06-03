@@ -29,6 +29,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 ## Get the data
 
 * Department for Transport [survey data](https://www.gov.uk/government/statistical-data-sets/walking-and-cycling-statistics-cw): CW0409: [Proportion of respondents agreeing that it is too dangerous to cycle on the road: England (ODS, 8.84KB)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/821824/CW0409.ods)
+* XLSX: [Data analysis and reshaping for visualisation](https://github.com/BBC-Data-Unit/cycling_to_work/blob/master/walk_cycle_date_wide.xlsx)
 
 ## Interviews and quotes
 
